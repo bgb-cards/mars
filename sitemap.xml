@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://boardgamebreakers.com/index.html</loc>
+    <lastmod>2018-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://boardgamebreakers.com/images/%EF%BE%80%EF%BD%B2%EF%BE%84%EF%BE%99.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://boardgamebreakers.com/images/%E5%9C%B0%E7%90%83.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://boardgamebreakers.com/images/tag%E5%AE%87%E5%AE%99.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://boardgamebreakers.com/images/tag%E7%A7%91%E5%AD%A6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://boardgamebreakers.com/images/gm2018s_map-day1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://boardgamebreakers.com/images/%E8%83%8C%E6%99%AF.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

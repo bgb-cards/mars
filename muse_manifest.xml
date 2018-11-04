@@ -1,12 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="boardgamebreakers.com" resolutions="1x" timestamp="1541129063266">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="boardgamebreakers.com" resolutions="1x" timestamp="1541161426916">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="366048719" ref="index"/>
+    <file name="index.css" crc="158949025" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="mars目次.pdf" crc="3823613150" seo="true" mt="1540855453000"/>
     <file name="mars火星の歩き方.pdf" crc="32512413" seo="true" mt="1540855510000"/>
     <file name="marsテラフォ.pdf" crc="503141084" seo="true" mt="1540855592000"/>
+    <file name="marscontents.pdf" crc="95746" seo="true" mt="1541158835000"/>
+    <file name="marschap3.pdf" crc="3895636579" seo="true" mt="1541160733000"/>
+    <file name="marschap7.pdf" crc="4097050130" seo="true" mt="1541160854000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,25 +26,25 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ロゴ.png" crc="4280873743" seo="true" ref="index">
+    <file name="logo.png" crc="4138258409" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="背景.jpg" crc="4001185252" seo="true" ref="index">
+    <file name="header1.jpg" crc="4001185252" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="タイトル.png" crc="3832848371" seo="true" ref="index">
+    <file name="title.png" crc="504951302" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="表紙rgb13s.png" crc="183774765" ref="index">
+    <file name="testimonial1.png" crc="31489744" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ゲムマ会場場所527x522.jpg" crc="290888148" seo="true" ref="index">
+    <file name="gamemarket527x510.jpg" crc="4241323404" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ゲムマ会場場所.jpg" crc="3991378770" seo="true" ref="index">
+    <file name="gamemarket.jpg" crc="508662909" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="back3.jpg" crc="75016220" seo="true" ref="index">
@@ -52,5 +55,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3820551308" seo="true" mt="1541129018852" redirect="true"/>
+  <file name="index.html" crc="4160692309" seo="true" mt="1541161410150" redirect="true"/>
 </manifest>
